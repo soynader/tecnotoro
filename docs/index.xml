@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tecnotoro</title>
+    <link>https://tecnotoro.com/</link>
+    <description>Recent content on Tecnotoro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language><atom:link href="https://tecnotoro.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://tecnotoro.com/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://tecnotoro.com/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://tecnotoro.com/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://tecnotoro.com/about/</guid>
+      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hugo makes use of a variety of open source projects including:
+ https://github.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://tecnotoro.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tecnotoro.com/contact/</guid>
+      <description>To contact us, please fill out the form below.
+</description>
+    </item>
+    
+    <item>
+      <title>Visual Studio Code: Mejora tu velocidad para codificar</title>
+      <link>https://tecnotoro.com/post/image-test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tecnotoro.com/post/image-test/</guid>
+      <description>Descripción General:
+Visual Studio Code es un editor de texto bastante poderoso con muchos atajos y formas de editar código. Este curso se enfoca en 2 áres principales:
+ Aumentar tu velocidad de desarrollo Conocer más sobre VSCode  El curso tiene ejercicios y muchos trucos para realizar la edición del código mucho más rápida.
+Origen del curso:
+Este curso surgió, porque muchos alumnos me preguntan mucho cosas cómo:
+ ¿Cómo hiciste eso?</description>
+    </item>
+    
+  </channel>
+</rss>
